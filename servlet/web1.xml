@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <servlet>
+     <servlet-name>Refresh</servlet-name>
+     <servlet-class>Refresh</servlet-class>
+ </servlet>
+ 
+ <servlet-mapping>
+     <servlet-name>Refresh</servlet-name>
+     <url-pattern>/Refresh</url-pattern>
+ </servlet-mapping>
